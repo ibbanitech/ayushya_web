@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.loginPage .container{
+    min-width: 100vh;
+}
+.mainLogo{
+    height: 150px;
+}
+.dp{
+    width:200px;
+    border-radius: 100px;
+}
+.notify{
+    padding-top: 2vh;
+}
+.frgtPass{
+    padding-top: 2vh;
+}
+.altLogin{
+    padding-top: 2vh;
+}
+.facebook{
+    padding-top: 2vh;
+}
+.facebookCall{
+    height: 40px;
+    width: 180px;
+    background-color: rgb(39, 94, 184);
+    border: none;
+    font-size: 15px;
+    color: white;
+}
+
+.registerPage .container{
+    min-width: 60vh;
+}
+.condition{
+    padding-top: 2vh;
+}
+.option1{
+    padding-top: 2vh;
+}
+
+.forgotPassPage .container{
+    min-width: 60vh;
+    height: 80vh;
+}
+.info{
+    padding-top: 2vh;
+    width: 50vh;
+    padding-left: 2vh;
+}
+.forgotPassPage button{
+    width: 60vh;
+}
+
+
+
